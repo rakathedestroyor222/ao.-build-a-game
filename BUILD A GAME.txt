@@ -1,5 +1,3 @@
-PREFILE FOR TESTING THEBOT FOR MUDASIR MUBARIK
-
 ```lua
 -- Ludo Game
 -- Importing essential modules
