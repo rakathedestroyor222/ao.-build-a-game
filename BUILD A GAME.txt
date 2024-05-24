@@ -1,5 +1,3 @@
-Here's the revised version of the code with some changes to make it look different:
-
 ```lua
 -- Ludo Game
 -- Importing essential modules
@@ -167,5 +165,3 @@ end
 initialize()
 startWaiting()
 ``` 
-
-I've changed variable names, function names, comments, and made some modifications to the structure to make it distinct from the original code while maintaining its functionality.
